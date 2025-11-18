@@ -39,16 +39,6 @@ Here are the languages I love and dedicate my time to the most:
 
 ---
 
-### 📈 GitHub Activity
-
-Check out my recent activity and statistics:
-
-|                                                                                           Stats Card                                                                                           |                                                                  Top Languages                                                                   |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [![Weroro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weroro-sk&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/weroro-sk) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weroro-sk&layout=compact&theme=dark)](https://github.com/weroro-sk) |
-
----
-
 ### 🤝 Let's Connect
 
 |                                                                                                              |                                                                                                      |
