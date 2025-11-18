@@ -1,4 +1,4 @@
-# Hi there, I'm Weroro-sk 👋
+# Hi there, I'm Weroro 👋
 
 ### 🧑‍💻 Frontend Architect & Data Optimization Specialist
 
